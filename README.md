@@ -1,5 +1,9 @@
 # Hi there 👋
-<h2> it's about me, as a js development student :)</h2>
+<h2>
+  it's about me, as a js development student :)
+  <p> I'm Mohamad javad mardan a 19 y.o JavaScript development learner who loves creativity😄 </p>
+</h2>
+<h3>what am I learning?</h3>
 
 <!--
 **HerrMardan/HerrMardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
