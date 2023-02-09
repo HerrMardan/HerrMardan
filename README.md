@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 <h3>to contact me:)</h3>
-<img src="![283-2834843_instagram-icon-for-hmsc-instagram-instagram-logo-vector](https://user-images.githubusercontent.com/122433510/217896550-018408d1-851e-4c7b-9f8e-7081196df267.png)">
+<img src="![insta](https://user-images.githubusercontent.com/122433510/217897276-dad74826-9fc3-4f45-8cc1-bfbae0afca32.png)">
 
 <!--
 **HerrMardan/HerrMardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
