@@ -14,7 +14,7 @@
     <img src="https://github.com/imrrobat/imrrobat/blob/main/images/instagram.png?raw=true" alt="github.com/HerrMardan">
 </a>
   <a href="">
-    <img src="https://github.com/imrrobat/imrrobat/blob/main/images/twitter.png?raw=true">
+    <img src="https://github.com/imrrobat/imrrobat/blob/main/images/twitter.png?raw=true" margin = "10px">
   </a>
   </p>
 <!--
