@@ -17,6 +17,10 @@
     <img src="https://github.com/imrrobat/imrrobat/blob/main/images/twitter.png?raw=true" margin-left = "10px">
   </a>
   </p>
+  <br>
+  <h2>my skills</h2>
+  <h3>🔮 Python | 30% </h3> ><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="150px" height="16px">
+  <br>
 <!--
 **HerrMardan/HerrMardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
