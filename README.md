@@ -13,7 +13,6 @@
  <a href="https://instagram.com/javad-mrdan">
     <img src="https://github.com/imrrobat/imrrobat/blob/main/images/instagram.png?raw=true" alt="github.com/HerrMardan">
 </a>
-  <p align = "right">
   <a href="">
     <img src="https://github.com/imrrobat/imrrobat/blob/main/images/twitter.png?raw=true">
   </a>
