@@ -1,5 +1,5 @@
 # Hi there 👋
-## it's about me, as a js development student :)
+<h2> it's about me, as a js development student :)</h2>
 
 <!--
 **HerrMardan/HerrMardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
