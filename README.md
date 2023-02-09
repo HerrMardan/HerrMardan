@@ -4,11 +4,12 @@
   </h2>
   <p> I'm Mohamad javad mardan a 19 y.o JavaScript development learner who loves creativity and animation web programming😄 </p>
 
-<h3>what I'm learning and what I know?</h3>
+<h3>what I'm learning and what I know</h3>
 
-<p>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="37.5" height="37.5"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="37.5" height="37.5"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37.5" height="37.5"/></a>
-</p>
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black) [Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+
+
 <h3>to contact me:)</h3>
 <p align = "left">
  <a href="https://instagram.com/javad-mrdan">
@@ -29,10 +30,10 @@
   <h3 >WordPress | 80% </h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="375px" height="16px">
   <br>
   <h2>🌞 what am I doing? </h2>
-<h4>⭐️ do a bachelor's degree in camputer engineering</h4>
-<h4>⭐️ learn JS</h4>
-<h4>⭐️ try to improve my CSS skills</h4>
-<h4>⭐️ teach WordPress</h4>
+<p>⭐️ do a bachelor's degree in camputer engineering
+⭐️ learn JS
+⭐️ try to improve my CSS skills
+⭐️ teach WordPress</p>
  
 <!--
 **HerrMardan/HerrMardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
