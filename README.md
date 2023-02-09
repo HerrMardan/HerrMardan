@@ -19,8 +19,17 @@
   </p>
   <br>
   <h2>my skills</h2>
-  <h3>🔮 Python | 30% </h3> ><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="150px" height="16px">
+  <h3> Python | 30% </h3> ><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="150px" height="16px">
   <br>
+  <h3> Team Work | 85% </h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="375px" height="16px">
+  <br>
+  <h3> JS/HTML/CSS | 55% </h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="275px" height="16px">
+  <br>
+  <h3 >WordPress | 80% </h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="375px" height="16px">
+  <br>
+  <h3> Work exprince | 40% </h3> <img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="375px" height="16px"
+  <br>
+  
 <!--
 **HerrMardan/HerrMardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
