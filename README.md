@@ -12,7 +12,12 @@
 
 <a href= "https://instagram.com/javad-mrdan"> <img src="![insta](https://user-images.githubusercontent.com/122433510/217885552-6d7ad7bf-2add-4280-8559-fb7b87f35348.png)
 
-"> </a>
+" <style>
+  width = 1.5rem
+  height = 1.5rem
+  
+  </style> 
+</a>
 
 <a href= "h"> <img src=""> </a>
 
