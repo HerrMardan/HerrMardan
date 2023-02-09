@@ -28,6 +28,11 @@
   <br>
   <h3 >WordPress | 80% </h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="375px" height="16px">
   <br>
+  <h2>🌞 what am I doing? </h2>
+<h4>⭐️ do a bachelor's degree in camputer engineering</h4>
+<h4>⭐️ learn JS</h4>
+<h4>⭐️ try to improve my CSS skills</h4>
+<h4>⭐️ teach WordPress</h4>
  
 <!--
 **HerrMardan/HerrMardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
