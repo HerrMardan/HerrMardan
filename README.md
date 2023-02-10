@@ -1,8 +1,8 @@
 # Hi there 👋
 <h2>
-  it's about me⚡
+  about me⚡
   </h2>
-  <p> I'm Mohamad javad mardan a 19 y.o JavaScript development learner who loves creativity and animation web programming😄 </p>
+  <p> as HerrMardan I'm a 19 y.o JavaScript development learner who loves creativity and animation web programming😄 </p>
 
 <h3>what I'm learning and what I know</h3>
 
@@ -29,11 +29,11 @@
   <br>
   <h3 >WordPress | 80% </h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="375px" height="16px">
   <br>
-  <h2>🌞 what am I doing? </h2>
-<h5>⭐️ do a bachelor's degree in camputer engineering</h5>
-<h5>⭐️ learn JS</h5>
-<h5>⭐️ try to improve my CSS skills</h5>
-<h5>⭐️ teach WordPress</p></h5>
+  <h2>🌞 More information? </h2>
+<h5>📫 How to reach me:Mohamadjavadmardan@gmail.com</h5>
+<h5>🌱 I’m currently learning JavaScript</h5>
+<h5>🔭 I’m currently working on my CSS skills</h5>
+<h5>💬 Ask me about WordPress</p></h5>
  
 <!--
 **HerrMardan/HerrMardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
