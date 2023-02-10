@@ -2,7 +2,7 @@
 <h2>
   about me✨
   </h2>
-  <p> as HerrMardan I'm a 19 y.o JavaScript development learner who loves creativity and animation web programming😄 </p>
+  <p> as <strong>HerrMardan</strong>, I'm a 19 y.o JavaScript development learner who loves creativity and animation web programming😄 </p>
 
 <h3>what I'm learning and what I know</h3>
 
