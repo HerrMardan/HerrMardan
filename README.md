@@ -1,6 +1,6 @@
 # Hi there 👋
 <h2>
-  about me⚡
+  about me✨
   </h2>
   <p> as HerrMardan I'm a 19 y.o JavaScript development learner who loves creativity and animation web programming😄 </p>
 
