@@ -2,7 +2,7 @@
 <h2>
   about me✨
   </h2>
-  <p> as <strong>HerrMardan</strong>, I'm a 19 years old junior web developer and AI learner who loves creativity and Ideation😄 </p>
+  <p> as a <strong>Student</strong>, I'm a 20 years old junior web developer and AI learner who loves creativity and Ideation😄 </p>
 
 <h3>what am I learning and what I know</h3>
 
